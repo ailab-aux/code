@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Error>
+  <Code>
+    Access Denied
+  </Code>
+  <Message>
+    hello, world, this is a error.
+  </Message>
+</Error>
